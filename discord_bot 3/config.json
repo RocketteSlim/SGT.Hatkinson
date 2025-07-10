@@ -1,0 +1,32 @@
+{
+    "command_states": {
+        "imp_message": true,
+        "list_messages": true,
+        "base": true,
+        "help": true,
+        "webhook": true,
+        "dashboard": true
+    },
+    "command_roles": {
+        "imp_message": [
+            1380832931957837884
+        ],
+        "list_messages": [
+            1380832931957837884
+        ],
+        "base": [
+            1392956339508220004,
+            1380830075393671249
+        ],
+        "help": [
+            1380830075393671249
+        ],
+        "webhook": [
+            1380832931957837884
+        ],
+        "dashboard": [
+            1380832931957837884
+        ]
+    },
+    "embed_channel_id": 1380831389636890836
+}
